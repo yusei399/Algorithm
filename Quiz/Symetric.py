@@ -15,3 +15,4 @@ if __name__ == '__main__':
 	l = [(2, 3), (3, 5), (4, 7), (5, 3), (7, 4)]
 	for r in find_pair(l):
 		print(r)
+
